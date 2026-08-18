@@ -4,7 +4,7 @@
 Так же прошел курсы на Аналитика данных.
 ### О себе
 
-<img width="120" height="100" alt="image" src="https://github.com/user-attachments/assets/1fb0534b-ce28-45b1-a280-cc6437f75df7" />
+<svg id="_Слой_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" viewBox="0 0 1000 376">
 
 - Получил 2 высших образования в Политехе Петра, а вместе с ними получил жизненный опыт.
   
