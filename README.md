@@ -4,15 +4,15 @@
 Так же прошел курсы на Аналитика данных.
 ### О себе
 
-<img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/1fb0534b-ce28-45b1-a280-cc6437f75df7" />
+<img width="120" height="100" alt="image" src="https://github.com/user-attachments/assets/1fb0534b-ce28-45b1-a280-cc6437f75df7" />
 
 - Получил 2 высших образования в Политехе Петра, а вместе с ними получил жизненный опыт.
   
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/acd4fc8f-4379-434b-975e-515751ceb359" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/acd4fc8f-4379-434b-975e-515751ceb359" />
 
 - В свободное от работы время улучшаю свои результаты в забеге на 10км.
 
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/8d5f8390-5bf2-49f5-b3f1-b3da641984c3" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/8d5f8390-5bf2-49f5-b3f1-b3da641984c3" />
 
 - Другую часть свободного времени посвещаю саморазвитию.
 
