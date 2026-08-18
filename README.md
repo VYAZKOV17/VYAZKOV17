@@ -8,7 +8,7 @@
 
 - Получил 2 высших образования в Политехе Петра, а вместе с ними получил жизненный опыт.
   
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/17596ea7-e907-4bc3-a638-16751000b738" />
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/acd4fc8f-4379-434b-975e-515751ceb359" />
 
 - В свободное от работы время улучшаю свои результаты в забеге на 10км.
 
