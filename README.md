@@ -1,16 +1,60 @@
-## Hi there 👋
+## Привет,я Андрей начинающий аналитик
+С июля 2025 года работаю инженером технической поддержки. Хочу перейти в системную аналитику.
+Изучаю системный анализ '**системно**'. В моем профиле можете ознакомиться с моими проектами для системной аналитики.
+Так же прошел курсы на Аналитика данных.
+### О себе
+<img width="120" height="37" alt="image" src="https://github.com/user-attachments/assets/eaeb07b2-49fb-4b66-ae6a-1021c831b78f" />
 
-<!--
-**VYAZKOV17/VYAZKOV17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Получил 2 высших образования в Политехе Петра, а вместе с ними получил жизненный опыт.
+  
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/17596ea7-e907-4bc3-a638-16751000b738" />
 
-Here are some ideas to get you started:
+- В свободное от работы время улучшаю свои результаты в забеге на 10км.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/e5ce9eb5-4ba8-46a5-82ae-4d36b7389a30" />
+
+- Другую часть свободного времени посвещаю саморазвитию.
+
+## Навыки, которыми я владею
+
+  ### Системный анализ
+  - Сбор и анализ требований
+  - Классификация требований(**функциональные**, **нефункциональные**, **бизнес-требования**)
+  - **User Story**, **Use Case**
+  - Декомпозиция задач
+  - Написание ТЗ
+  ### Методолгии
+  - **Agile: Scrum,Kanban**
+  - **Waterfull**
+  - Приоритизация требований (**Kano**,**MoSCoW**)
+  ### Интеграции
+  - REST API: **GET,POST,PUT,PATCH,DELETE**
+  - JSON структура
+  ### SQL
+  - **JOIN (INNER,LEFT,RIGHT,FULL)**
+  - Агрегатные функции (SUM,COUNT)
+  - Подзапросы и оконные функции
+  ### Моделирование
+  - **BPMN**
+  - **UML (Use Case, Sequence, Class)**
+  - **C4**
+## Инструменты, которыми я владею
+  ### API
+  - **Swagger/OpenAPI**
+  - Postman,curl
+  ### Моделирование
+  - Draw.io 
+  - **PlantUML**
+  - BPMN.io
+  ### Базы данных
+  - DBeaver
+  - **DataGrip**
+  ### Документация и требования
+  - **Confluence**
+  - Jira
+  ### Версионирование
+  - **Git**
+
+
+
+
